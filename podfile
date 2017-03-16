@@ -1,0 +1,6 @@
+platform :ios, ‘8.0’ #手机的系统
+target 'MVVMDemo' do #工程名字
+pod 'AFNetworking'
+pod 'SDAutoLayout'
+pod 'MJRefresh'
+end
